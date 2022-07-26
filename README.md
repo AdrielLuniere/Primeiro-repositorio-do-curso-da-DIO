@@ -23,6 +23,6 @@
   <a href = "mailto:adrielbinda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriel-lunière-41b88716a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AdrielLuniere/AdrielLuniere/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AdrielLuniere/Primeiro-repositorio-do-curso-da-DIO/blob/output/github-contribution-grid-snake.svg)
 
 </div>
