@@ -1,14 +1,24 @@
-## Bem-vindo(a) ao perfil do Adriel Lunière 😁
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Adriel+Luniere;I'm+33+years+old;I+am+from+Belo+Horizonte,+MG;I+study+analysis+and+systems+development+at+Uniasselv;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<div  align="center" style="margin-bottom:100px">
+<img width=69% align="center"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrielluniere&theme=radical" /> 
+<img width=29% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielluniere&theme=radical" />
+ </div>
 
 
- <div>
-   <a href="https://github.com/AdrielLuniere">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrielLuniere&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrielLuniere&layout=compact&langs_count=6&theme=cobalt"/>
+<p align="">
+  <img src="https://github-profile-trophy.vercel.app/?username=adrielluniere&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
 
-</div>
+<div align="center">  
+<a href="https://www.instagram.com/adrielluniere/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+
+
+
 <div style="display: inline_block"
 style="display: inline_block"><br>
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -30,6 +40,5 @@ style="display: inline_block"><br>
   <a href = "mailto:adrielbinda@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriel-lunière-41b88716a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AdrielLuniere/AdrielLuniere/blob/output/github-contribution-grid-snake.svg)
 
 </div>
